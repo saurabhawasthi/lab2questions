@@ -1,0 +1,15 @@
+# lab2questions8
+#include <iostream>
+using namespace std;
+int main()
+{
+int a,b,c,;
+cout<<"input first angle of a triangle:";
+cin >>a;
+cout<<"input seconed angle of trianglel:;
+cin>.b;
+cout<<"the first and seconed angle of a triangle are \t"<<a<<"\tand\t"<<b<<"'\n";
+c=180-(a+b);
+cout<<\nthe third angle of triangleis = "<<c;
+return 0;
+}
