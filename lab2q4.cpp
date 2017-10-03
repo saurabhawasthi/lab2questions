@@ -10,7 +10,7 @@ cin>>d;
 y=d/365;
 y=d%365;
 w=d/7;
-d=d/7;
+d=d%7;
 cout <<"\n years: "<<y<<"\n weaks;\:";
 return 0;
 }
